@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+.link{
+    color: #000;
+    font-size: larger;
+    margin-left: 10px;
+    border: solid 1px rgb(20, 1, 37);
+    border-radius: 5px;
+    padding: 5px;
+}
